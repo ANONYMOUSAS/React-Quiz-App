@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "statement": "1. What is the correct command to create a new React project?",
+        "options": [
+            "npx create react app my app",
+            "npx create-react-app my app",
+            "npx create-react-app my-app",
+            "npx create react app my-app"
+        ],
+        "answer": "npx create-react-app my-app",
+        "wrong": [
+            "npx create react app my app",
+            "npx create-react-app my-app",
+            "npx create react app my-app"
+        ]
+    },
+    {
+        "id": 2,
+        "statement": "2. What command is used to start the React local development server?",
+        "options": [
+            "npm build",
+            "npm start",
+            "npm run",
+            "npm serve"
+        ],
+        "answer": "npm start",
+        "wrong": [
+            "npm build",
+            "npm run",
+            "npm serve"
+        ]
+    },
+    {
+        "id": 3,
+        "statement": "3. What is the default local host port that a React development server uses?",
+        "options": [
+            "3800",
+            "5000",
+            "2500",
+            "3000"
+        ],
+        "answer": "3000",
+        "wrong": [
+            "3800",
+            "5000",
+            "2500"
+        ]
+    },
+    {
+        "id": 4,
+        "statement": "4. Which Program is required to Develop and run react code?",
+        "options": [
+            "JDK",
+            "Node JS",
+            "Android SDK",
+            "NDK"
+        ],
+        "answer": "Node JS",
+        "wrong": [
+            "JDK",
+            "Android SDK",
+            "NDK"
+        ]
+    },
+    {
+        "id": 5,
+        "statement": "5. In React.js which one of the following is used to create a class for Inheritance?",
+        "options": [
+            "Create",
+            "Delete",
+            "Inherits",
+            "Extends"
+        ],
+        "answer": "Extends",
+        "wrong": [
+            "Create",
+            "Delete",
+            "Inherits"
+        ]
+    },
+    {
+        "id": 6,
+        "statement": "6. Which of the following valid component return type of React?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1",
+        "wrong": [
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "id": 7,
+        "statement": "7. Which of the following is a way to handle data in React.js?",
+        "options": [
+            "State & Services",
+            "Services & Components",
+            "State & Props",
+            "State & Component"
+        ],
+        "answer": "State & Props",
+        "wrong": [
+            "State & Services",
+            "Services & Components",
+            "State & Component"
+        ]
+    },
+    {
+        "id": 8,
+        "statement": "8. Which of the following is must for the API in React.js?",
+        "options": [
+            "renderComponent",
+            "SetinitialComponent",
+            "render",
+            "All of the Above"
+        ],
+        "answer": "renderComponent",
+        "wrong": [
+            "SetinitialComponent",
+            "render",
+            "All of the Above"
+        ]
+    },
+    {
+        "id": 9,
+        "statement": "9. Which of the following is true regarding Babel?",
+        "options": [
+            "Compiler",
+            "Transpilar",
+            "Both of the Above",
+            "None of the above"
+        ],
+        "answer": "Both of the Above",
+        "wrong": [
+            "Compiler",
+            "Transpilar",
+            "None of the above"
+        ]
+    },
+    {
+        "id": 10,
+        "statement": "10. In React.js, how we can pass the data from one component to another in React.js?",
+        "options": [
+            "SetState",
+            "Render with arguments",
+            "PropTypes",
+            "Props"
+        ],
+        "answer": "Props",
+        "wrong": [
+            "SetState",
+            "Render with arguments",
+            "PropTypes"
+        ]
+    }
+]
